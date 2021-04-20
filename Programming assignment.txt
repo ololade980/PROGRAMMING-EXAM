@@ -1,0 +1,43 @@
+﻿NUMBER 1
+
+def my_function(x):
+  return x[::-1]
+
+DNA = my_function("ATCGATCGATCAGATTTAAACGGCATATCATAGCACGTACATGACG")
+
+print(DNA)
+
+RESULT = GCAGTACATGCACGATACTATACGGCAAATTTAGACTAGCTAGCTA
+
+NUMBER 2
+
+value = 4
+
+ while value<= 10:
+    print(value)
+    value = value+1
+
+
+question 3
+x =0
+ while x < 6:
+    print(x)
+    x = x + 1
+
+
+Number 5
+
+fagbola@hackbio:~$ mkdir pro
+fagbola@hackbio:~$ cd pro
+fagbola@hackbio:~/pro$ nano hello.sh Brian
+fagbola@hackbio:~/pro$ ls
+hello.shBrian
+fagbola@hackbio:~/pro$ less hello.shBrian
+fagbola@hackbio:~/pro$ chmod +x hello.shBrian
+fagbola@hackbio:~/pro$ ./hello.shBrian
+HELLO BRIAN.
+fagbola@hackbio:~/pro$ nano hello.shBrian
+fagbola@hackbio:~/pro$ ./hello.shBrian
+HELLO BRIAN.
+HOW ARE YOU?
+fagbola@hackbio:~/pro$
