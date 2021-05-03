@@ -41,3 +41,10 @@ fagbola@hackbio:~/pro$ ./hello.shBrian
 HELLO BRIAN.
 HOW ARE YOU?
 fagbola@hackbio:~/pro$
+
+# with the question on Hello Brian, you can improve this by having inside your script. 
+Hello $1. How are you?
+
+The $1 allows you to pass arguments to a script. 
+
+To execute ths: Hello.sh Brian
